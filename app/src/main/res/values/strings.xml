@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">MyExample1</string>
+    <string name="app_name">My Application</string>
+
+    <string name="question_go">Moscow is the largest city in Russia</string>
+
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+
+    <string name="correct_answer">Правильно!</string>
+    <string name="incorrect_answer">Не правильно</string>
+
+    <string name="action_setting">Settings</string>
+
 </resources>

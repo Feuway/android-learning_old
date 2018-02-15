@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">MyExample1</string>
+    <string name="app_name">What to watch</string>
+
+    <string name="choose">Выбрать сериал</string>
+    <string name="genre">Жанр сериала</string>
+    <string-array name="choose_genre">
+        <item>Комедия</item>
+        <item>Фэнтези</item>
+        <item>Ужасы</item>
+        <item>Фантастика</item>
+        <item>Криминал</item>
+    </string-array>
 </resources>

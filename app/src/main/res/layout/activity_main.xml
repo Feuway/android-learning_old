@@ -6,4 +6,32 @@
     android:layout_height="match_parent"
     tools:context="ru.limtu.myexample1.MainActivity">
 
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_view" />
+
+        <Button
+            android:id="@+id/touchMe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"
+            android:text="@string/btn_touch_me" />
+
+        <Button
+            android:id="@+id/exit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"
+            android:text="@string/btn_exit" />
+
+    </LinearLayout>
+
 </android.support.constraint.ConstraintLayout>

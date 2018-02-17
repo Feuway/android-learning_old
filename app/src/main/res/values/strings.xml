@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MyExample1</string>
+    <string name="app_name">LifeCycle</string>
+
+    <string name="text_view">Приложение запцщено впервые</string>
+    <string name="btn_touch_me">Коснись меня</string>
+    <string name="btn_exit">Выход</string>
 </resources>

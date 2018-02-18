@@ -3,8 +3,8 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "ru.limtu.myexample1"
-        minSdkVersion 14
+        applicationId "ru.smirnov.actionbar"
+        minSdkVersion 19
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"

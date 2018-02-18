@@ -1,4 +1,4 @@
-package ru.limtu.myexample1;
+package ru.smirnov.actionbar;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ru.limtu.myexample1", appContext.getPackageName());
+        assertEquals("ru.smirnov.actionbar", appContext.getPackageName());
     }
 }

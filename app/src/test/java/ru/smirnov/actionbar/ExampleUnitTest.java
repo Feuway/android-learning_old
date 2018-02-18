@@ -1,4 +1,4 @@
-package ru.limtu.myexample1;
+package ru.smirnov.actionbar;
 
 import org.junit.Test;
 
